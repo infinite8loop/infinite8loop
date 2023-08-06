@@ -1,5 +1,5 @@
 <h2 align="center"> "Hola!!!"
-<img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="40">
+<img src="https://i.ibb.co/Jt2X04D/pngwing-com.png" width="40">
 
 I am [Manoj](https://www.manojkumar.site) Kumar!    </h2>
 
@@ -58,8 +58,8 @@ I am [Manoj](https://www.manojkumar.site) Kumar!    </h2>
 ## <img src="https://media0.giphy.com/media/YZuPLv7YPBzBRXuWnf/giphy.gif?cid=ecf05e47b1vr1pwvpcs8wfyoilhcn8g0nj1jyqo13mhb5dcg&rid=giphy.gif&ct=s" width="40"> &nbsp; **GitHub Analytics**
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Poonam1607)](https://git.io/streak-stats)
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Poonam1607&theme=vision-friendly-dark&show_icons=true" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=infinite8loop)](https://git.io/streak-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=infinite8loop&theme=vision-friendly-dark&show_icons=true" />
 
 
 
@@ -70,7 +70,7 @@ I am [Manoj](https://www.manojkumar.site) Kumar!    </h2>
 ## <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40"> &nbsp; **Connect with Me !! 🤝** ️
 
 <p align="left">
-<a href="https://www.linkedin.com/in/poonampawar7/" target="_blank">
+<a href="https://www.linkedin.com/in/musalannagari-manoj-kumar-21601b168/" target="_blank">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
 </a>  
 <a href="https://twitter.com/the_optimizer_" target="_blank">

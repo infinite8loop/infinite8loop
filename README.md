@@ -14,7 +14,7 @@ I am [Manoj](https://www.manojkumar.site) Kumar!    </h2>
 - 👯 I’m looking to collaborate with all DevOps and cloud native beginner friendly projects.
 - 💬 Ask me about DevOps tools & Cloud
 - 📫 How to reach me: **musalannagarimanoj1999@gmail.com**
-- ⚡ Cloud & DevOps Engineer | AWS Certified *2 | Azure *1 | K8s | Terraform | CI/CD | Open Source
+- ⚡ Cloud & DevOps Engineer | AWS Certified *2 | CKA | Azure *1 | K8s | Terraform | CI/CD | Open Source
 
 <br/>
 <hr/>
